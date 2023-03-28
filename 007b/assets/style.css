@@ -1,0 +1,26 @@
+html, body {
+    background: #ECECEC;
+}
+
+.box {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background: #FFF;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+    margin: 5px;
+}
+
+.on {
+    background: #777;
+}
+
+button {
+    margin: 0 auto;
+    padding: 20px;
+    background: #CC0000;
+    font-size: 20px;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.3);
+}
