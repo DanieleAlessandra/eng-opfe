@@ -12,7 +12,7 @@ body {
 
 body, div {
     width: 100%;
-    transition: width linear 400ms;
+    /*transition: width linear 400ms;*/
 }
 
 #d1 {

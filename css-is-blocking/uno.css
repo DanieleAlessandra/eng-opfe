@@ -1,0 +1,18 @@
+
+
+body#body-id.my-body {
+    background-color: orange;
+}
+
+
+#body-id {
+    background-color: purple;
+}
+
+.my-body {
+    background-color: red;
+}
+
+body {
+    background-color: green;
+}

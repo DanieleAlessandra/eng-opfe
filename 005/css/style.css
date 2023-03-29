@@ -10,7 +10,7 @@
 
     transition: border-radius 1s ease-out;
 
-    will-change: transform;
+    /*will-change: transform;*/
 }
 
 .box.superround {

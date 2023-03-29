@@ -5,8 +5,12 @@ div {
     position: relative;
     background: rgba(0,0,0,0.5);
 }
+
+
+
+
 .box2 {
-    animation: example 12s linear infinite;
+    animation: example 4s linear infinite;
 }
 
 @keyframes example {
